@@ -22,6 +22,7 @@
         <a class="nav-link active" aria-current="page" href="Beranda">Beranda</a>
         <a class="nav-link" href="Mahasiswa ">Mahasiswa</a>
         <a class="nav-link" href="Dosen">Dosen</a>
+        <a class="nav-link" href="<?= base_url('admin/login') ?>">Login</a>
         <!-- <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a> -->
       </div>
     </div>
